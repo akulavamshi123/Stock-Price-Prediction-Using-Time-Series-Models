@@ -22,8 +22,6 @@ INSTALLED_APPS = [
     # ✅ Your app
     'predictor',
 ]
-
-
 # ⚙️ Middleware
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
